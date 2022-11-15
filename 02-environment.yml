@@ -1,0 +1,6 @@
+name: production
+dependencies:
+  - flask
+  - pip
+  - pip:
+    - aiogram
